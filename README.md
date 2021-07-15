@@ -1,4 +1,4 @@
-### Hi there, I'm Ariq - aka [Atmduino Robotic][website] 👋
+### Hi there, I'm Ariq - aka [Atmduino Robotic][https://www.instagram.com/atmduino/] 👋
 
 [![Website](https://img.shields.io/website?label=atmduino.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://linktr.ee/AtmduinoRobotic)
 
@@ -6,11 +6,6 @@
 
 
 ### Connect with me:
-
-<!-- [<img align="left" alt="atmduino | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="atmduino | LinkedIn" width="30px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="atmduino | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-
 <p>
   <a href="https://www.linkedin.com/in/ath-thaareq-mahesa-8330471b4/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
@@ -26,8 +21,6 @@
   </a>
 </p>
 
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -36,9 +29,3 @@
 <img align="left" alt="android-studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 
 <br />
-<br />
-
-[website]: https://www.instagram.com/atmduino/
-[youtube]: https://www.youtube.com/channel/UCfpKae3Lv2A41bXY2TYHztA
-[instagram]: https://www.instagram.com/aththaareq_87/
-[linkedin]: https://www.linkedin.com/in/ath-thaareq-mahesa-8330471b4/
