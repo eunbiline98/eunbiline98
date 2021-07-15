@@ -1,4 +1,4 @@
-### Hi there, I'm Ariq - aka [Atmduino Robotic][Website] 👋
+### Hi there, I'm Ariq - aka [Atmduino Robotic][website] 👋
 
 [![Website](https://img.shields.io/website?label=atmduino.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://linktr.ee/AtmduinoRobotic)
 
@@ -30,4 +30,4 @@
 
 <br />
 
-Website = https://www.instagram.com/atmduino/
+[website]: https://www.instagram.com/atmduino/
