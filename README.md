@@ -5,13 +5,17 @@
 ## I'm a IoT/Robotic Enthusiast, Hardware Engineer, Electrical Engineer
 
 
+- I'm currently studying everything
+- Fun fact: I love DIY 
+
+
 ### Connect with me:
 <p>
   <a href="https://www.linkedin.com/in/ath-thaareq-mahesa-8330471b4/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a>   
   <a href="https://www.facebook.com/AthThaareqMahesa/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
+    <img src="https://img.shields.io/badge/Youtube-1877F2?style=for-the-badge&logo=youtube&logoColor=white" height=25>
   </a>
   <a href="https://www.instagram.com/aththaareq_87/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
@@ -20,6 +24,7 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=25>
   </a>
 </p>
+
 
 ### Languages and Tools:
 
