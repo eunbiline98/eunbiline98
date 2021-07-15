@@ -6,7 +6,8 @@
 
 
 - I'm currently studying everything
-- Fun fact: I love DIY 
+- Want to develop lighting controllers such as(Art-net,Dmx512)
+- Fun fact: I love DIY
 
 
 ### Connect with me:
