@@ -15,6 +15,9 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a>   
   <a href="https://www.facebook.com/AthThaareqMahesa/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
+  </a>
+    <a href="https://www.youtube.com/channel/UCfpKae3Lv2A41bXY2TYHztA">
     <img src="https://img.shields.io/badge/Youtube-1877F2?style=for-the-badge&logo=youtube&logoColor=white" height=25>
   </a>
   <a href="https://www.instagram.com/aththaareq_87/">
