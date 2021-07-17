@@ -26,8 +26,7 @@
   </a> 
   <a href="https://github.com/eunbiline98/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=25>
-  </a>
-  ![Profile views](https://gpvc.arturio.dev/eunbiline98)  
+  </a> 
 </p>
 
 
@@ -42,11 +41,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
-<br/>
-
 [website]: https://www.instagram.com/atmduino/
 
+  ![Profile views](https://gpvc.arturio.dev/eunbiline98) 
 
 <h1>GitHub Stats</h1>
 <span>
