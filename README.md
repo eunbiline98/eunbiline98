@@ -45,7 +45,6 @@
 
 
 <h1>GitHub Stats</h1>
-  ![Profile views](https://gpvc.arturio.dev/eunbiline98) 
 <span>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunbiline98&layout=compact&count_private=true&hide=html,css,&langs_count=8" alt="Counter" width=400 height=180>
 </span>
