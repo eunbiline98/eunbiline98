@@ -43,7 +43,7 @@
 
 [website]: https://www.instagram.com/atmduino/
 
-  ![Profile views](https://gpvc.arturio.dev/eunbiline98) 
+<!--   ![Profile views](https://gpvc.arturio.dev/eunbiline98)  -->
 
 <h1>GitHub Stats</h1>
 <span>
