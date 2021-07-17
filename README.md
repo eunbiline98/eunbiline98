@@ -27,6 +27,7 @@
   <a href="https://github.com/eunbiline98/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=25>
   </a>
+  ![Profile views](https://gpvc.arturio.dev/eunbiline98)  
 </p>
 
 
@@ -46,9 +47,6 @@
 
 [website]: https://www.instagram.com/atmduino/
 
-
-
-![Profile views](https://gpvc.arturio.dev/eunbiline98)  
 
 <h1>GitHub Stats</h1>
 <span>
