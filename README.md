@@ -27,6 +27,9 @@
   <a href="https://github.com/eunbiline98/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=25>
   </a> 
+  <a href="https://www.electronicwings.com/search?query=eunbiline98#searchprojects">
+    <img src="https://img.shields.io/badge/electronicwings-100000?style=for-the-badge&logo=github&logoColor=white" height=25>
+  </a>
 </p>
 
 ## Languages and Tools:
