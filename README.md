@@ -48,4 +48,6 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunbiline98&layout=compact&count_private=true&hide=html,css,&langs_count=8" alt="Counter" width=400 height=180> [![Eunbiline98d's github stats](https://github-readme-stats.vercel.app/api?username=eunbiline98)](https://github.com/eunbiline98/eunbiline98)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunbiline98&layout=compact&count_private=true&hide=html,css,&langs_count=8" alt="Counter" width=400 height=180>
+
+[![Eunbiline98d's github stats](https://github-readme-stats.vercel.app/api?username=eunbiline98)](https://github.com/eunbiline98/eunbiline98)
