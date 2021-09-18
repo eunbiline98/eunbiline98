@@ -6,7 +6,8 @@
 
 
 - I'm currently studying everything
-- Want to develop lighting controllers such as(Art-net,Dmx512)
+- Want to develop lighting controllers such as (sonoff,bardi)
+- My hobby is soldering, making someting useful but cheap
 - Fun fact: I love DIY
 
 
