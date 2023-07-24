@@ -22,7 +22,7 @@
     <a href="https://www.youtube.com/channel/UCfpKae3Lv2A41bXY2TYHztA">
     <img src="https://img.shields.io/badge/Youtube-1877F2?style=for-the-badge&logo=youtube&logoColor=white" height=25>
   </a>
-  <a href="https://www.instagram.com/aththaareq_87/">
+  <a href="https://www.instagram.com/aththaareq16___/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
   </a> 
   <a href="https://github.com/eunbiline98/">
