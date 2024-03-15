@@ -59,6 +59,6 @@
         <td align="center"><a href="https://github.com/eunbiline98#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eunbiline98&theme=default"/></a><a href="https://github.com/eunbiline98#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eunbiline98&theme=tokyonight"/></a></td>
     </tr>
     <tr>
-        <td colspan="2" align="center"><a href="https://github.com/eunbiline98#gh-light-mode-only"><img src="https://raw.githubusercontent.com/eunbiline98/eunbiline98/output/github-contribution-grid-snake.svg" alt="My GitHub Stats"/></a><a href="https://github.com/eunbiline98#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/eunbiline98/eunbiline98/output/github-contribution-grid-snake.svg" alt="My GitHub Stats"/></a></td>
+        <td colspan="2" align="center"><a href="https://github.com/eunbiline98#gh-light-mode-only"><img src="https://raw.githubusercontent.com/eunbiline98/eunbiline98/output/github-contribution-grid-snake.svg" alt="My GitHub Stats"/></a>
     </tr>
 </table>
