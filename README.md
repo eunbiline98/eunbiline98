@@ -48,8 +48,17 @@
 
 [website]: https://www.instagram.com/atmduino/
 
-## GitHub Stats
+## 📈 GitHub Activity Graph:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunbiline98&layout=compact&count_private=true&hide=html,css,&langs_count=8" alt="Counter" width=400 height=180>
-
-[![Eunbiline98d's github stats](https://github-readme-stats.vercel.app/api?username=eunbiline98)](https://github.com/eunbiline98/eunbiline98)
+<table align="center">
+    <tr>
+        <td align="center"><a href="https://github.com/eunbiline98#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=eunbiline98&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/eunbiline98#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=eunbiline98&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/eunbiline98#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunbiline98&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/eunbiline98#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunbiline98&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/eunbiline98#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eunbiline98&theme=default"/></a><a href="https://github.com/eunbiline98#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eunbiline98&theme=tokyonight"/></a></td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center"><a href="https://github.com/eunbiline98#gh-light-mode-only"><img src="https://raw.githubusercontent.com/eunbiline98/eunbiline98/output/github-contribution-grid-snake.svg" alt="My GitHub Stats"/></a><a href="https://github.com/eunbiline98#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/eunbiline98/eunbiline98/output/github-contribution-grid-snake.svg" alt="My GitHub Stats"/></a></td>
+    </tr>
+</table>
