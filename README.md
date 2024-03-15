@@ -1,11 +1,11 @@
 ### Hi there, I'm Ariq - aka [Atmduino Robotic][website] 👋 
 <!-- [![Website](https://img.shields.io/website?label=atmduino.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://linktr.ee/AtmduinoRobotic) -->
-![template banner github](https://user-images.githubusercontent.com/50385294/127747447-e798d771-a82e-46a9-b293-5adae46646fd.jpg)
-![Profile views](https://gpvc.arturio.dev/eunbiline98)  
+![template banner github](https://user-images.githubusercontent.com/50385294/127747447-e798d771-a82e-46a9-b293-5adae46646fd.jpg)  
 ## I'm a IoT/Robotic Enthusiast, Hardware Engineer, Electrical Engineer
 
 
 - I'm currently studying everything
+- I am an IoT engineer
 - Want to develop lighting controllers such as (sonoff,bardi)
 - My hobby is soldering, making someting useful but cheap
 - Fun fact: I love DIY
