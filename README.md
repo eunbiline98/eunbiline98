@@ -34,16 +34,18 @@
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
-<img align="left" alt="raspberry" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
-<img align="left" alt="android-studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+<img align="left" alt="Raspberry Pi" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Platformio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/PlatformIO_logo.svg" />
+<img align="left" alt="PlatformIO" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/PlatformIO_logo.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Home Assistant" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Home_Assistant_Logo.svg" />
 <img align="left" alt="Firebase" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Firebase_icon.svg" />
 <img align="left" alt="PRTG" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/23/Prtg-network-monitor-logo.svg" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/docker/docker.png" />
+<img align="left" alt="Node-RED" width="26px" src="https://nodered.org/about/resources/media/node-red-icon-2.png" />
+
 <br/>
 
 [website]: https://www.instagram.com/atmduino/
