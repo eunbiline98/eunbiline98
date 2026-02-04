@@ -1,65 +1,146 @@
-### Hi there, I'm Ariq👋 
-## I'm a IoT/Robotic Enthusiast, Hardware Engineer, Electrical Engineer
+# 🚀 Ariq — IoT Engineer & Hardware Product Builder
 
+I build **end-to-end IoT products** — from **hardware & firmware** to **backend, dashboard, and monitoring systems**.  
+Focused on **practical, scalable, and cost-efficient solutions** for real-world deployment.
 
-- I'm currently studying everything
-- I am an IoT engineer
-- Want to develop lighting controllers such as (sonoff,bardi)
-- My hobby is soldering, making someting useful but cheap
-- Fun fact: I love DIY
+> 🛠️ Hardware-first mindset • 📡 IoT systems • ⚡ DIY & low-cost engineering
 
+---
 
-### Connect with me:
-<p>
+## 👨‍💻 About Me
+
+- **Role**: IoT Engineer / Hardware & Electrical Engineer  
+- **Focus**: Embedded systems, IoT infrastructure, automation
+- **Strength**: Turning ideas into **working devices + dashboards**
+- **Mindset**: Build simple, reliable, and deployable systems
+
+**What I do end-to-end:**
+- Device firmware (ESP32 / ESP8266)
+- Sensor & electrical integration
+- MQTT / HTTP communication
+- Data ingestion & processing
+- Monitoring & dashboard (Node-RED, Grafana-like systems)
+- Deployment using Docker & Linux
+
+---
+
+## 🧠 Core Expertise
+
+| Area | What I Build |
+|----|----|
+| Embedded Firmware | ESP32 / ESP8266, sensor integration |
+| IoT Communication | MQTT, HTTP, REST |
+| Backend & Flow | Node-RED, Python |
+| Monitoring | Telemetry, alerts, dashboards |
+| Infrastructure | Linux, Docker |
+| Hardware | Power, wiring, soldering, prototyping |
+
+---
+
+## 🧰 Technology Stack
+
+**Firmware & Hardware**
+- ESP32 / ESP8266
+- Arduino Framework
+- PlatformIO
+- Sensors, relays, power modules
+
+**IoT & Backend**
+- MQTT
+- Node-RED
+- Python
+- Firebase
+
+**Infrastructure**
+- Linux
+- Docker
+- Git / GitHub
+
+---
+
+## 🌟 Featured Projects
+
+> Selected works representing **real-world IoT use cases**  
+> *(Hardware → Firmware → Data → Visualization)*
+
+### 🔌 Smart Lighting Controller
+**Category**: IoT Device / Home Automation  
+- ESP-based smart lighting controller
+- MQTT communication
+- Designed for **low-cost & local deployment**
+- Comparable concept: Sonoff / Bardi (custom firmware)
+
+**Tech**: ESP8266, MQTT, Node-RED
+
+---
+
+### ⚡ Energy & Power Monitoring System
+**Category**: Industrial IoT / Monitoring  
+- Power & energy data acquisition
+- Data processing & visualization
+- Used for **electrical monitoring & analysis**
+
+**Tech**: ESP, Node-RED, Database, Dashboard
+
+---
+
+### 📡 IoT Telemetry & Monitoring Platform
+**Category**: Backend & Monitoring  
+- Device data ingestion
+- Health monitoring & telemetry
+- Containerized deployment
+
+**Tech**: Node-RED, Docker, Linux
+
+---
+
+## 📊 GitHub Activity
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=eunbiline98&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunbiline98&layout=compact&theme=tokyonight"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=eunbiline98&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Connect & Portfolio
+
+<p align="left">
   <a href="https://www.linkedin.com/in/ath-thaareq-mahesa-8330471b4/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-  </a>   
-  <a href="https://www.facebook.com/AthThaareqMahesa/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-    <a href="https://www.youtube.com/channel/UCfpKae3Lv2A41bXY2TYHztA">
-    <img src="https://img.shields.io/badge/Youtube-1877F2?style=for-the-badge&logo=youtube&logoColor=white" height=25>
+  <a href="https://github.com/eunbiline98">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCfpKae3Lv2A41bXY2TYHztA">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
   </a>
   <a href="https://www.instagram.com/aththaareq98/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
-  </a> 
-  <a href="https://github.com/eunbiline98/">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=25>
-  </a> 
-  <a href="https://www.electronicwings.com/search?query=eunbiline98#searchprojects">
-    <img src="https://img.shields.io/badge/electronicwings-%230077B5?style=for-the-badge&logo=electronicwings&logoColor=white" height=25>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
 
-## Languages and Tools:
+---
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
-<img align="left" alt="Raspberry Pi" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="PlatformIO" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/PlatformIO_logo.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Firebase" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Firebase_icon.svg" />
-<img align="left" alt="PRTG" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/23/Prtg-network-monitor-logo.svg" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/docker/docker.png" />
-<img align="left" alt="Node-RED" width="26px" src="https://nodered.org/about/resources/media/node-red-icon-2.png" />
+## 🏗️ Philosophy
 
-<br/>
+> **“Build simple systems that actually work in the field.”**
 
-[website]: https://www.instagram.com/atmduino/
+Hardware should be reliable.  
+Software should be maintainable.  
+IoT should solve real problems — not just look cool.
 
-## 📈 GitHub Activity Graph:
+---
 
-<table align="center">
-    <tr>
-        <td align="center"><a href="https://github.com/eunbiline98#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=eunbiline98&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/eunbiline98#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=eunbiline98&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/eunbiline98#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunbiline98&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/eunbiline98#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunbiline98&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/eunbiline98#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eunbiline98&theme=default"/></a><a href="https://github.com/eunbiline98#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eunbiline98&theme=tokyonight"/></a></td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center"><a href="https://github.com/eunbiline98#gh-light-mode-only"><img src="https://raw.githubusercontent.com/eunbiline98/eunbiline98/output/github-contribution-grid-snake.svg" alt="My GitHub Stats"/></a>
-    </tr>
-</table>
+📩 Open for collaboration, R&D, and product development.
